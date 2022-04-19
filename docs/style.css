@@ -1,0 +1,33 @@
+.md-typeset .admonition.note.inline {
+    border-width: 0;
+}
+
+.md-typeset .admonition.info.inline {
+    width: 18rem;
+    border-width: 0;
+}
+
+.admonition.info .admonition-title,
+.admonition.note .admonition-title {
+    display: none;
+}
+
+article ul ul li::marker {
+    list-style: none !important;
+    list-style-type: none !important;
+    content: "—  ";
+}
+
+.md-typeset ul, .md-typeset ul li,
+.md-typeset ul li ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-hue: 130;
+}
+
+:root {
+    --md-default-bg-color: #e2ede4;
+}
