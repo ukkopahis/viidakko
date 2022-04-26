@@ -1,12 +1,14 @@
+article p, article ul {
+    max-width: 50em;
+}
+
 .md-typeset .admonition.note.inline {
     border-width: 0;
 }
-
 .md-typeset .admonition.info.inline {
     width: 18rem;
     border-width: 0;
 }
-
 .admonition.info .admonition-title,
 .admonition.note .admonition-title {
     display: none;

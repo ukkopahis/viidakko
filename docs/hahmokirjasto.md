@@ -1,8 +1,7 @@
 # Hahmokirjasto
 
-<div markdown="1" style="max-width: 25em; margin: 0;">
-![](hunters.jpg)
-</div>
+!!! info inline end
+    ![](hunters.jpg)
 
 ## Kylän taistelujohtaja: UrKii
 - Draamakoukut:
@@ -51,7 +50,7 @@
     - [\_] Kuollut
 
 ## Valmishahmo: Iaa
-!!! note inline end
+!!! info inline end
     ![](iaa.jpg)
 - Draamakoukut:
     - Sinun pitäisi vakuuttaa muut rohkeudestasi houkuttelemalla merenneito
@@ -155,6 +154,7 @@ Käytä sitä ellet itse halua säätää muotoilua järkeväksi.
     - taikaesine jonka suojeleminen kuluu suvullesi
     - luuranko vei sinut lapsena ja palautti seuraavana yönä
     - olet merenneitojen rannalle jättämä lapsi
+    - pidät merenneitoja ihmisiä kauniimpana
     - sinulle on pienestä asti opetettu salaista shamaanirituaalia
     - henkien hyljeksimä
 - Esineet, voit kantaa kahta:
@@ -198,3 +198,5 @@ Käytä sitä ellet itse halua säätää muotoilua järkeväksi.
     - [\_][\_][\_] Select a new Advantage from your Archetype.
     - [\_][\_][\_][\_][\_] Remember something about your Dark Secret.
 - Tausta: Vapaa kertomus eri elämänkokemuksistasi.
+
+<!-- vim: set spelllang=fi,en : -->

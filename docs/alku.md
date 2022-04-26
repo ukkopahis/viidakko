@@ -8,7 +8,7 @@
 Nämä kuvaavat hahmon haluja, tavoitteita ja pyrkimyksiä. Pelin toimivuuden
 kannalta nämä ovat tärkeä osa hahmoa. Koukun toteuttamisesta, riippumatta siitä
 saavutettiinko onnistunut lopputulos, hahmo saa pelin jälkeen **1 Experience**
-pisteen. Hahmolla on oltava pelin alkaessa vähintään 2 koukkua.
+pisteen.
 
 Pelin aikana voit ehdottaa koukkuja muille pelaajille liittyen hahmoosi.
 
@@ -36,6 +36,7 @@ Jokaisen pelikerran jälkeen, ryhmältä kysytään:
 Jokaiseen kysymykseen johon on perusteet vastata "**kyllä**", kaikki hahmot
 saavat **1 Experience** pisteen. Myös jokainen hahmon toteuttama
 **draamakoukku** antaa pisteen. Pyydä muilta pelaajilta tai pelinjohtajalta
-uusia draamakoukkuja toteutuneiden tilalle. Yhdestä pelikerrasta on siis
-mahdollista saada ainakin 5 Experience pistettä.
+uusia draamakoukkuja toteutuneiden tilalle, hahmolla on oltava vähintään kaksi.
+Yhdestä pelikerrasta on siis mahdollista saada ainakin 5 Experience pistettä.
 
+<!-- vim: set spelllang=fi: -->

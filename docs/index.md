@@ -1,8 +1,6 @@
-# Peliesittely
+# Miljöö
 
-<div markdown="1" style="max-width: 40em; margin: auto;">
 ![](intro.jpg)
-</div>
 
 Heimonne asuu viidakossa järven rannalle rakennetussa kaislamajakylässä.
 Kaikki viidakon puut ja pensaat tuottavat syötäviä ja maukkaita hedelmiä.
@@ -44,28 +42,41 @@ kenenkään ei tarvitse tietää jos maistamme vain yhden nuolaisun..."
   kiilattu kivi.
 - Viidakon hedelmistä ja kasveista saatte helposti kaiken tarvitsemanne ruuan
   ja juoman. Kukaan ei kerää mitään ruokaa varastoon.
-- Viidako jatkuu yli päivämatkan verran joka suuntaan, paitsi poispäin järveltä
-  jossa kallionseinämä on parin tunnin kävelymatkan päässä. Kukaan ei ole
-  kulkenut järven ympäri, koska puolivälissä eteen tulee vastaan hankala ja
-  vaarallinen kosteikkoalue jossa merenneidot helposti yllättävät.
+- Viidako jatkuu ainakin usean päivämatkan verran joka suuntaan, paitsi
+  poispäin järveltä, jossa vastaan tulee kallioseinämä parin tunnin kävelyn
+  jälkeen. Kukaan ei ole kulkenut järven ympäri, koska puolivälissä eteen tulee
+  vastaan hankala ja vaarallinen kosteikkoalue jossa merenneidot helposti
+  yllättävät.
+
+## Merenneidot
+
+<div markdown="1" style="max-width: 30em; margin-left: 2em;">
+![](mermaid.jpg)
+</div>
+
 - Merenneitoja näkyy harvoin, mutta voivat vaania heti pinnan alla. Ne ovat
-  vaarallisia ja hukuttavat kaikki jotka saavat kiinni.
+  vaarallisia. Ne hukuttavat ja raatelevat kaikki jotka saavat kiinni.
+  Muistatte lapsuudesta tapauksen jossa epäonnekkaasta kalastajasta ei jäänyt
+  paljon haudattavaa.
+- Vanhemmat kyläläiset osaavat kertoa, etteivät neidot ole paljoa ihmisiä
+  kookkaampia, lähinnä pyrstöevän verran pitempiä. Yksi liioittelusta tunnettu
+  vanha kalastaja väittää kerran nähneensä hyvin pitkän, melkein käärmemäisen
+  yksilön. Itse olette nähneet vain vilaukselta kauempana järvellä hetkeksi
+  pinnan yläpuolelle tulleita päitä.
 
-    <div markdown="1" style="max-width: 30em; margin: auto;">
-    ![](mermaid.jpg)
-    </div>
+## Seikkailukohteet
 
-## Tunnetut seikkailukohteet
-
-- Kylän vieressä järveen tulee puro jonka alkupäässä on huhujen mukaan kaunis
-  vesiputous jossa on kuulma turvallista kylpeä.
-- Poispäin järveltä reilun tunnin kävelymatkan päässä on lähin kallioseinämä,
-  josta alkaa iso luola joka johtaa yhdelle temppeleistä, mutta myös pelottavan
-  hämäriin sivukäytäviin joissa ette ole käyneet.
-- Parin niemenkärjen takana on kirkasvesinen ja pitkämatala hiekkaranta.
+- **Juomavesipuro** Kylän vieressä järveen tulee puro jonka alkupäässä on huhujen
+  mukaan kaunis vesiputous jossa on kuulma turvallista kylpeä.
+- **Kalliotemppeli** Poispäin järveltä reilun tunnin kävelymatkan päässä on lähin
+  kallioseinämä, josta alkaa iso luola joka johtaa yhdelle temppeleistä, mutta
+  myös pelottavan hämäriin sivukäytäviin joissa ette ole käyneet.
+- **Simpukkaranta** Parin niemenkärjen takana on kirkasvesinen ja pitkämatala hiekkaranta.
   Rantavedestä voi kerätä simpukankuoria ja löytää hyvämnakuisia kotiloita.
-  Ne täytyy vaan ensin jättää pari tuntia mustan kiven päälle kypsymään.
-- Korkeimpaan puuhun kiipeämällä yksi teistä on näyhnyt suunnan jossa keskellä
+  Ne vaan täytyy ensin jättää pari tuntia mustan kiven päälle kypsymään.
+- **Viidakkoaukea** Korkeimpaan puuhun kiipeämällä yksi teistä on näyhnyt suunnan jossa keskellä
   viidakkoa ei näy puunlatvoja.
-- Nousevan auringon suunnassa kaukana näkyy teräväsilmäisten mukaan tavallista
-  korkeampia ja isompia puista koostuva viidakko.
+- **Suurviidakko** Nousevan auringon suunnassa teräväsilmäisten mukaan kaukana näkyy tavallista
+  korkeammista ja isommista puista koostuva viidakko.
+
+<!-- vim: set spelllang=fi: -->
